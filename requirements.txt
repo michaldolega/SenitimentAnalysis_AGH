@@ -1,0 +1,4 @@
+frozendict==1.2
+Keras
+numpy==1.17.1
+tensorflow
